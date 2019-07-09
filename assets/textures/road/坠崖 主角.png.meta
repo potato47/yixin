@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "a3c35351-8e38-4164-af01-1383baf38cb5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "坠崖 主角": {
+      "ver": "1.0.4",
+      "uuid": "d4ac93f0-4074-408a-b191-9af7d90e7f0c",
+      "rawTextureUuid": "a3c35351-8e38-4164-af01-1383baf38cb5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 31,
+      "offsetY": 172.5,
+      "trimX": 609,
+      "trimY": 94,
+      "width": 124,
+      "height": 187,
+      "rawWidth": 1280,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

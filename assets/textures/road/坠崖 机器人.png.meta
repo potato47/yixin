@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "e157ba60-ec4a-4fd0-a7cc-051ccc7bde27",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "坠崖 机器人": {
+      "ver": "1.0.4",
+      "uuid": "941d8b50-45c7-44c3-8ad3-fb94101baad6",
+      "rawTextureUuid": "e157ba60-ec4a-4fd0-a7cc-051ccc7bde27",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -36.5,
+      "offsetY": 58.5,
+      "trimX": 529,
+      "trimY": 252,
+      "width": 149,
+      "height": 99,
+      "rawWidth": 1280,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

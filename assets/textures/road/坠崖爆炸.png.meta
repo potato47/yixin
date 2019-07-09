@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "0d1ba068-5a68-4c54-9215-77271c0c59e4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "坠崖爆炸": {
+      "ver": "1.0.4",
+      "uuid": "fc5e7f31-5e3c-4d97-847e-07e7bfa5b4d8",
+      "rawTextureUuid": "0d1ba068-5a68-4c54-9215-77271c0c59e4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -140,
+      "offsetY": 34,
+      "trimX": 248,
+      "trimY": 59,
+      "width": 504,
+      "height": 534,
+      "rawWidth": 1280,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "b54aa579-a675-4c7d-b5fb-d48250062f9c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "心电图": {
+      "ver": "1.0.4",
+      "uuid": "df20983a-aae3-4152-b602-1f8aa472c160",
+      "rawTextureUuid": "b54aa579-a675-4c7d-b5fb-d48250062f9c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 295,
+      "offsetY": 263.5,
+      "trimX": 806,
+      "trimY": 44,
+      "width": 258,
+      "height": 105,
+      "rawWidth": 1280,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

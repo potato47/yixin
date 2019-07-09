@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "e6182d94-bc8c-47c9-b067-fe55863e7985",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "道路-障碍物栅栏": {
+      "ver": "1.0.4",
+      "uuid": "8cde20f1-016b-48db-899f-c795910a41bf",
+      "rawTextureUuid": "e6182d94-bc8c-47c9-b067-fe55863e7985",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -141.5,
+      "offsetY": -123,
+      "trimX": 387,
+      "trimY": 362,
+      "width": 223,
+      "height": 242,
+      "rawWidth": 1280,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

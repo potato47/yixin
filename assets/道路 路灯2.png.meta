@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "269cbe96-9843-497b-91be-1e4841d12fd6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "道路 路灯2": {
+      "ver": "1.0.4",
+      "uuid": "e9388fc6-8b0f-4ee6-a083-d7bf789f4f6c",
+      "rawTextureUuid": "269cbe96-9843-497b-91be-1e4841d12fd6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 235.5,
+      "offsetY": -24,
+      "trimX": 471,
+      "trimY": 161,
+      "width": 809,
+      "height": 446,
+      "rawWidth": 1280,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

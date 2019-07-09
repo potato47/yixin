@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "65a46f87-ba8e-4ed0-a051-276b87e0ca4e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "道路-障碍物石头": {
+      "ver": "1.0.4",
+      "uuid": "b73bb3d8-64bc-43f8-9bf0-2cbf0089a1b2",
+      "rawTextureUuid": "65a46f87-ba8e-4ed0-a051-276b87e0ca4e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 110.5,
+      "offsetY": -169,
+      "trimX": 673,
+      "trimY": 452,
+      "width": 155,
+      "height": 154,
+      "rawWidth": 1280,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

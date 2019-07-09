@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "57f9abd2-e7f6-4ce6-8eca-834a014fb831",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "道路 马路断崖": {
+      "ver": "1.0.4",
+      "uuid": "d9ee5cd7-538c-47f2-a377-5419877f6cd4",
+      "rawTextureUuid": "57f9abd2-e7f6-4ce6-8eca-834a014fb831",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -234,
+      "trimX": 0,
+      "trimY": 468,
+      "width": 1280,
+      "height": 252,
+      "rawWidth": 1280,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

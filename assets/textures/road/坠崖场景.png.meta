@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "b6bcb29a-b2e9-4979-bd25-70d9e293bb25",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "坠崖场景": {
+      "ver": "1.0.4",
+      "uuid": "8cbdb40a-a996-459e-9adf-525b3a95f3d0",
+      "rawTextureUuid": "b6bcb29a-b2e9-4979-bd25-70d9e293bb25",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1280,
+      "height": 720,
+      "rawWidth": 1280,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "55e005d4-1f84-4aca-a196-a686b51ac9f6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "结尾漫画2-2": {
+      "ver": "1.0.4",
+      "uuid": "1bb082b9-69e8-4e31-912f-30bb8739f546",
+      "rawTextureUuid": "55e005d4-1f84-4aca-a196-a686b51ac9f6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1280,
+      "height": 720,
+      "rawWidth": 1280,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

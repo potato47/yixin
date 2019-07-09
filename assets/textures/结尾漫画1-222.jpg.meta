@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "894bf47a-beeb-49c1-a358-17b4df85ae78",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "结尾漫画1-222": {
+      "ver": "1.0.4",
+      "uuid": "f8cf8580-1afa-4d43-9779-6b68891092a7",
+      "rawTextureUuid": "894bf47a-beeb-49c1-a358-17b4df85ae78",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1280,
+      "height": 720,
+      "rawWidth": 1280,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

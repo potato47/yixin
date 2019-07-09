@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "5de31f33-59e0-4169-865e-1f6fae9d98f3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "主角-踩着滑板": {
+      "ver": "1.0.4",
+      "uuid": "6ac3b832-3cff-4e68-8904-591b9b50689d",
+      "rawTextureUuid": "5de31f33-59e0-4169-865e-1f6fae9d98f3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -413,
+      "offsetY": -88.5,
+      "trimX": 180,
+      "trimY": 344,
+      "width": 94,
+      "height": 209,
+      "rawWidth": 1280,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
