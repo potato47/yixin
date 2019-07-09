@@ -16,13 +16,13 @@
   <meta name="force-rendering" content="webkit"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
   
-  <link rel="stylesheet" type="text/css" href="style-desktop.95f96.css"/>
+  <link rel="stylesheet" type="text/css" href="style-desktop.css"/>
 </head>
 <body>
 <h1 class="header">yixin</h1>
 
-<div id="GameDiv" style="width:1152px; height: 648px;">
-  <canvas id="GameCanvas" width="1152" height="648"></canvas>
+<div id="GameDiv" style="width:1280px; height: 720px;">
+  <canvas id="GameCanvas" width="1280" height="720"></canvas>
   <div id="splash">
     <div class="progress-bar stripes">
       <span style="width: 0%"></span>
@@ -32,8 +32,8 @@
 
 <p class="footer">Created with <a href="http://cocos.com/cocoscreator" title="cocos creator">Cocos Creator</a></p>
 
-<script src="src/settings.50d9d.js" charset="utf-8"></script>
-<script src="main.1000f.js" charset="utf-8"></script>
+<script src="src/settings.js" charset="utf-8"></script>
+<script src="main.js" charset="utf-8"></script>
 
 <script type="text/javascript">
 (function () {
@@ -47,7 +47,7 @@
 
     var cocos2d = document.createElement('script');
     cocos2d.async = true;
-    cocos2d.src = window._CCSettings.debug ? 'cocos2d-js.js' : 'cocos2d-js-min.e87f5.js';
+    cocos2d.src = window._CCSettings.debug ? 'cocos2d-js.js' : 'cocos2d-js-min.js';
 
     var engineLoaded = function () {
         document.body.removeChild(cocos2d);
